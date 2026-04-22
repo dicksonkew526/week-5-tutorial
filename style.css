@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+    background-image: url("pixel.jpg");
+    margin: 0;
+    padding: 0;
+
+.main-header {
+    background-color: #547A95;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    margin: 0px;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+
+/* Destination Cards */
+.card {
+    background: white;
+    border-radius: 10px;
+    display: inline-block;
+    width: 280px;
+    margin: 10px;
+    vertical-align: top;
+   
+    overflow: hidden;
+
